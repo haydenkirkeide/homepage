@@ -1,7 +1,9 @@
 .App {
   text-align: left;
-  
-   
+  .section {
+    height: 200;
+  }
+   ;
 }
 
 .App-logo {
