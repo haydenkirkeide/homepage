@@ -6,6 +6,7 @@ function App() {
     { name: "Lab 1 — D3 Bar Chart", url: "#" },
     { name: "Lab 2 — D3 Interactions", url: "#" },
     { name: "Final Project", url: "#" },
+    { name: "Test Project", url: "#" }
   ];
 
   return (
