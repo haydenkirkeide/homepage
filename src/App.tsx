@@ -38,8 +38,15 @@ function App() {
           <li> PL2 </li> 
           <li> PL3 </li> 
           </ul>
+        <h3> Undergraduate Admissions Student Assistant </h3>
+        <p> UC San Diego Office of Undergraduate Admissions, La Jolla, California <br /> December 2021 - December 2024 </p>
+        <ul> 
+          <li> PL1 </li> 
+          <li> PL2 </li> 
+          <li> PL3 </li> 
+          </ul>
         <h3> Technical Writing Intern </h3>
-        <p> Hologic, Inc., San Diego, California </p>
+        <p> Hologic, Inc., San Diego, California <br /> June 2023 - August 2023 </p>
         <ul> 
           <li> PL1 </li> 
           <li> PL2 </li> 
@@ -52,6 +59,26 @@ function App() {
           <li> PL2 </li> 
           <li> PL3 </li> 
           </ul>
+
+      <h2> Relevant Coursework </h2>
+      <h3> Florida State University </h3> 
+      <ul> 
+        <li> CAP 5619: Deep and Reinforcement Learning [IN PROGRESS] </li>
+        <li> STA 5635: Machine Learning [IN PROGRESS] </li>
+        <li> CAP 5769: Advanced Data Science </li>
+        <li> CIS 5370: Computer Security [IN PROGRESS] </li>
+        <li> CIS 5390: Introduction to Data Visualization [IN PROGRESS] </li>
+        <li> STA 5207: Applied Regression Methods </li>
+        <li> CAP 5768: Introduction to Data Science </li>
+
+      </ul>
+      <h3> UC San Diego </h3>
+      <ul> 
+        <li> COGS 9: Introduction to Data Science</li>
+        <li> CSE 8A: Introduction to Python </li>
+        <li> CSE 8B: Introduction to Java </li>
+        <li> </li>
+      </ul>
       </header>
 
       <main style={{ padding: "0 24px" }}>
