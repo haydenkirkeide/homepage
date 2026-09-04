@@ -77,7 +77,11 @@ function App() {
         <li> COGS 9: Introduction to Data Science</li>
         <li> CSE 8A: Introduction to Python </li>
         <li> CSE 8B: Introduction to Java </li>
-        <li> </li>
+        <li> PSYC 60: Introduction to Statistics </li>
+        <li> VIS 142: Practices in Computing Arts </li>
+        <li> VIS 146A: Computer Controlled Fabrication </li>
+        <li> VIS 147A: Electronic Technologies for Art </li>
+        <li> VIS 41: Design Communication </li>
       </ul>
       </header>
 
