@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/homepage/static/css/main.eb222cd4.css",
-    "main.js": "/homepage/static/js/main.096632a0.js",
+    "main.js": "/homepage/static/js/main.31e20d1a.js",
     "static/js/453.080f328d.chunk.js": "/homepage/static/js/453.080f328d.chunk.js",
     "static/media/Hayden square.jpg": "/homepage/static/media/Hayden square.9e37850d87acb3573112.jpg",
     "index.html": "/homepage/index.html",
     "main.eb222cd4.css.map": "/homepage/static/css/main.eb222cd4.css.map",
-    "main.096632a0.js.map": "/homepage/static/js/main.096632a0.js.map",
+    "main.31e20d1a.js.map": "/homepage/static/js/main.31e20d1a.js.map",
     "453.080f328d.chunk.js.map": "/homepage/static/js/453.080f328d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb222cd4.css",
-    "static/js/main.096632a0.js"
+    "static/js/main.31e20d1a.js"
   ]
 }
