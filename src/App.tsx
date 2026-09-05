@@ -5,10 +5,11 @@ import headshot from "./Hayden square.jpg";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Experience from "./pages/Experience";
+import Assignment0 from "./pages/ProjectFiles/Assignment0";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <div className="App" id="app">
         <nav className="Sidebar">
           <img src={headshot} alt="Hayden Kirkeide" className="profile-photo" />
@@ -42,6 +43,7 @@ function App() {
             />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
+            <Route path="/projects/assignment0" element={<Assignment0 />} />
             <Route path="/experience" element={<Experience />} />
           </Routes>
         </main>
