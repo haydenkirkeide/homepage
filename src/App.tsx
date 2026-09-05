@@ -5,7 +5,6 @@ import headshot from "./Hayden square.jpg";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Experience from "./pages/Experience";
-import Assignment0 from "./pages/ProjectFiles/Assignment0";
 
 function App() {
   return (
@@ -23,7 +22,7 @@ function App() {
           </label>
 
           <ul className="menu-links">
-            <li><NavLink to="/" end className={({ isActive }) => (isActive ? "active" : "")}>Home</NavLink></li>
+            <li><NavLink to="/homepage/" end className={({ isActive }) => (isActive ? "active" : "")}>Home</NavLink></li>
             <li><NavLink to="/about" className={({ isActive }) => (isActive ? "active" : "")}>About</NavLink></li>
             <li><NavLink to="/projects" className={({ isActive }) => (isActive ? "active" : "")}>Projects</NavLink></li>
             <li><NavLink to="/experience" className={({ isActive }) => (isActive ? "active" : "")}>Experience</NavLink></li>
@@ -33,7 +32,7 @@ function App() {
         <main className="Content">
           <Routes>
             <Route
-              path="/"
+              path="/homepage/"
               element={
                 <div>
                   <h2>Homepage</h2>
@@ -43,7 +42,6 @@ function App() {
             />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
-            <Route path="/projects/assignment0" element={<Assignment0 />} />
             <Route path="/experience" element={<Experience />} />
           </Routes>
         </main>

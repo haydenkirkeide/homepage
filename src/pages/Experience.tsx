@@ -3,14 +3,14 @@ import React from "react";
 function Experience() {
   return (
     <div>
-      <h2> Education </h2>
-      <h3> Florida State University </h3>
+      <h1> Education </h1>
+      <h2> Florida State University </h2>
       <p> Tallahassee, Florida | Expected Graduation Date: December 2026 </p>
       <ul>
         <li> M.S. Data Science: Computer Science</li>
         <li> GPA: 3.9/4.0 </li>
       </ul>
-      <h3> University of California, San Diego</h3>
+      <h2> University of California, San Diego</h2>
       <p> La Jolla, California | Graduation Date: June 2025 </p>
       <ul>
         <li> B.A. Communication </li>
@@ -19,7 +19,7 @@ function Experience() {
         <li> GPA: 3.7/4.0</li>
       </ul>
 
-      <h2> Experience </h2>
+      <h1> Experience </h1>
       <h3> Guest Experience Insights Analyst Intern </h3>
       <p> Carnival Cruise Line, Miami, Florida <br /> May 2026 - August 2026 </p>
       <ul>
