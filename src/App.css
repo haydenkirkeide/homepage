@@ -36,13 +36,12 @@
 }
 
 .profile-photo {
-  width: 160px;
-  height: 160px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 16px auto;
   display: block;
-  border: 2px solid #cbd5e1;
 }
 
 .menu-toggle {
